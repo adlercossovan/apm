@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  pagetitle: string = 'ACoPlan3 Management';
+  pageTitle: string = 'ACoPlan3 Management';
 }
