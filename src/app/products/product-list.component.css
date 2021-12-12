@@ -1,0 +1,16 @@
+img {
+    width: 50px;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    vertical-align: middle;
+}
